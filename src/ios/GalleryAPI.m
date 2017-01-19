@@ -266,9 +266,8 @@
 
         BOOL canCreateDirectory = false;
 
-        if (![fileMgr fileExistsAtPath:docsPath]) {
+        if (![fileMgr fileExistsAtPath:docsPath])
             canCreateDirectory = true;
-        }
 
         BOOL canWriteFile = true;
 
