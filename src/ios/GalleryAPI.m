@@ -268,6 +268,7 @@
 
         if (![fileMgr fileExistsAtPath:docsPath]) {
             canCreateDirectory = true;
+        }
 
         BOOL canWriteFile = true;
 
