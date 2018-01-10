@@ -1,0 +1,19 @@
+{
+  "name": "cordova-gallery-api",
+  "version": "1.0.0",
+  "description": "This plugin defines a global `galleryAPI` object, which offer methods to query gallery albums and media:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzts/cordova-gallery-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vzts/cordova-gallery-api/issues"
+  },
+  "homepage": "https://github.com/vzts/cordova-gallery-api#readme"
+}
